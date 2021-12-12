@@ -1,0 +1,124 @@
+.container{
+  display: flex;
+  justify-content: center;
+}
+.innerContainer{
+  width: 100%;
+  max-width: 1024px;
+  padding: 1rem 2rem;
+  display: flex;
+  color: black;
+  font-size: 0.8rem;
+  align-items: flex-start;
+}
+.innerContainer > div:first-child{
+  flex: 2;
+  /* background-color: beige; */
+  padding: 0 2rem;
+}
+.reserveInfo{
+  display: flex;
+  flex-direction: column;
+}
+
+.reserveInfo > span:first-child{
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 1rem 0;
+}
+.reserveInfo > input{
+  margin-bottom: 2rem;
+}
+.reserveInfo > span:nth-child(5){
+  font-size: 0.5rem;
+  color: #a4a4a4;
+}
+.loginBox{
+  text-align: center;
+  color: white;
+  background-color: #f7323f;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+a{
+  text-decoration: none;
+}
+.loginBox > span{
+  font-size: 1.8rem;
+  line-height: 1rem;
+  vertical-align: top;
+  padding-left: 0.5rem;
+}
+.pay{
+  display: flex;
+  flex-direction: column;
+}
+.pay > div:last-child{
+  margin: 2rem 0;
+  padding: 0 0.5rem;
+}
+
+input[type="checkBox"]:checked{
+  background-color: #f7323f;
+  size: 3rem;
+}
+.checkBox > div > span{
+  vertical-align: top;
+}
+.checkBox > div > div > span{
+  vertical-align: top;
+}
+.checkBox > div > div > span:last-child{
+  padding-left: 0.2rem;
+  color: #f7323f;
+}
+
+.innerContainer > div:last-child{
+  flex: 1;
+  background-color: #f5f5f5;
+}
+
+.inforSummary{
+  display: flex;
+  flex-direction: column;
+}
+.inforSummary > div:first-child{
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem;
+}
+.inforSummary > div:first-child > span:nth-child(odd){
+  font-size: 0.5rem;
+  color: #a4a4a4;
+}
+.inforSummary > div:first-child > span:nth-child(even){
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.inforSummary > div:nth-child(3){
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem;
+}
+.inforSummary > div:nth-child(3) > span:first-child{
+  font-weight: bold;
+}
+.inforSummary > div:nth-child(3) > span:last-child{
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: #f7323f;
+}
+
+.inforSummary > input{
+  border: none;
+  color: white;
+  padding: 0.5rem;
+  background-color: #f7323f;
+  cursor: pointer;
+}
+
+.inforSummary > input:disabled{
+  background-color: #a4a4a4;
+  cursor: default;
+}

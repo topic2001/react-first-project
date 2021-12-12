@@ -1,0 +1,700 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "hotelid": 1,
+      "rating": 4,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "주차비 15000원은 아깝긴 하네요. 8층 배정 받았는데 구조가 욕실 방이랑 분기가 되어 있어서 한명이 잘때 씻고 해도 전혀 불편하지 않았어요",
+      "response": ""
+    },
+    {
+      "id": 2,
+      "hotelid": 1,
+      "rating": 3,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "주차비 15000원은 아깝긴 하네요. 8층 배정 받았는데 구조가 욕실 방이랑 분기가 되어 있어서 한명이 잘때 씻고 해도 전혀 불편하지 않았어요",
+      "response": "안녕하십니까. 고객님, 저희 에이든 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "id": 3,
+      "hotelid": 1,
+      "rating": 2,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "주차비 15000원은 아깝긴 하네요. 8층 배정 받았는데 구조가 욕실 방이랑 분기가 되어 있어서 한명이 잘때 씻고 해도 전혀 불편하지 않았어요",
+      "response": "안녕하십니까. 고객님, 저희 에이든 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "id": 4,
+      "hotelid": 1,
+      "rating": 5,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "주차비 15000원은 아깝긴 하네요. 8층 배정 받았는데 구조가 욕실 방이랑 분기가 되어 있어서 한명이 잘때 씻고 해도 전혀 불편하지 않았어요",
+      "response": "안녕하십니까. 고객님, 저희 에이든 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "title": "괜찮아요",
+      "content": "좋아요 좋아요",
+      "emoji": "&#128515;",
+      "rating": 3,
+      "reserveid": "2",
+      "hotelid": 2,
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "updateDate": "2021-08-23T01:36:02.765Z",
+      "id": 5
+    },
+    {
+      "title": "좋았습니다.",
+      "content": "좋았어요.",
+      "emoji": "&#128525;",
+      "rating": 5,
+      "reserveid": "8",
+      "hotelid": 1,
+      "regDate": "2021-08-20T10:36:44.141Z",
+      "updateDate": "2021-08-23T00:56:41.927Z",
+      "id": 6
+    },
+    {
+      "title": "괜찮아요",
+      "content": "좋아요 좋아요",
+      "emoji": "&#128517;",
+      "rating": 3,
+      "reserveid": "7",
+      "hotelid": 1,
+      "regDate": "2021-08-21T05:50:03.647Z",
+      "updateDate": "2021-08-22T06:36:19.184Z",
+      "id": 7
+    },
+    {
+      "title": "좋아요",
+      "content": "좋아요",
+      "emoji": "&#128517;",
+      "rating": 2,
+      "reserveid": "3",
+      "hotelid": 2,
+      "regDate": "2021-08-21T06:16:51.782Z",
+      "id": 8
+    },
+    {
+      "title": "등록",
+      "content": "등록되나요.",
+      "emoji": "&#128525;",
+      "rating": 4,
+      "reserveid": "3",
+      "hotelid": 2,
+      "regDate": "2021-08-21T06:18:30.849Z",
+      "updateDate": "2021-08-23T00:53:24.009Z",
+      "id": 9
+    },
+    {
+      "title": "되나요",
+      "content": "되요?",
+      "emoji": "&#128517;",
+      "rating": 3,
+      "reserveid": "1",
+      "hotelid": 2,
+      "regDate": "2021-08-21T06:22:48.875Z",
+      "id": 10
+    },
+    {
+      "title": "ㅁㅁ",
+      "content": "ㅁㅁ",
+      "emoji": "&#128525;",
+      "rating": 5,
+      "reserveid": "1",
+      "hotelid": 2,
+      "regDate": "2021-08-21T06:26:29.594Z",
+      "id": 11
+    },
+    {
+      "title": "괜찮아요",
+      "content": "좋아요 좋아요",
+      "emoji": "&#128515;",
+      "rating": 3,
+      "reserveid": "1",
+      "hotelid": 2,
+      "regDate": "2021-08-21T06:35:32.553Z",
+      "updateDate": "2021-08-23T01:36:22.488Z",
+      "id": 12
+    },
+    {
+      "title": "좋았습니다.",
+      "content": "감사합니다.",
+      "emoji": "&#128525;",
+      "rating": 3,
+      "reserveid": "10",
+      "hotelid": 2,
+      "regDate": "2021-08-22T11:22:37.277Z",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "hotelid": 3,
+      "rating": 5,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "전반적으로 만족했고 호텔 분위기도 좋았어요.",
+      "response": "안녕하십니까. 고객님, 저희 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "id": 15,
+      "hotelid": 4,
+      "rating": 5,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "전반적으로 만족했고 호텔 분위기도 좋았어요.",
+      "response": "안녕하십니까. 고객님, 저희 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "id": 16,
+      "hotelid": 5,
+      "rating": 5,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "전반적으로 만족했고 호텔 분위기도 좋았어요.",
+      "response": "안녕하십니까. 고객님, 저희 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "id": 17,
+      "hotelid": 6,
+      "rating": 5,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "전반적으로 만족했고 호텔 분위기도 좋았어요.",
+      "response": "안녕하십니까. 고객님, 저희 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "id": 18,
+      "hotelid": 7,
+      "rating": 5,
+      "emoji": "&#128539;",
+      "regDate": "2021-08-20T07:32:51.038Z",
+      "title": "여기만한 곳은 어디에도 없을 거예요.",
+      "content": "전반적으로 만족했고 호텔 분위기도 좋았어요.",
+      "response": "안녕하십니까. 고객님, 저희 호텔을 이용해 주셔서 진심으로 감사드립니다."
+    },
+    {
+      "title": "여기만한 곳은 어디에도 없을 거예요",
+      "content": "전반적으로 만족했고 호텔 분위기도 좋았어요.",
+      "emoji": "&#128525;",
+      "rating": 4,
+      "reserveid": "9",
+      "hotelid": 1,
+      "regDate": "2021-08-23T01:07:55.444Z",
+      "id": 19
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "rating": "3성급",
+      "name": "에이든 바이베스트웨스턴 청담",
+      "star": 3.7142857142857144,
+      "location": "강남",
+      "address": "서울 강남구 논현동 60-8",
+      "transportation": "신사역 차량 4분",
+      "price": "85,000원/1박",
+      "event": [
+        "인기있는 호텔은 다 이유가 있다 [조식 2인]"
+      ],
+      "photo": "hotel1.jpg",
+      "information": {
+        "surround": [
+          "신사역 차량 4분",
+          "세빛섬 차량 9분",
+          "국립 중앙박물관 차량 16분"
+        ],
+        "notice": [
+          "2021년 3월 23일 부터 조식 이용 가능합니다.",
+          "코로나19 확산 예방과 고객 및 직원의 안전을 위해 조식은 한상차림으로 제공됩니다.",
+          "매주 월요일은 조식 이용이 불가합니다. 양해 부탁 드립니다."
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "헐리우드 더블",
+          "price": 85000,
+          "photo": "double.jpg"
+        },
+        {
+          "id": 2,
+          "name": "디럭스 트윈",
+          "price": 90000,
+          "photo": "twin.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rating": "5성급",
+      "name": "신라스테이 역삼",
+      "star": 3.2857142857142856,
+      "location": "강남",
+      "address": "서울 강남구 역삼동 675-3",
+      "transportation": "역삼역 도보 10분",
+      "price": "100,000원/1박",
+      "event": [
+        "자꾸자꾸 땡기는 그맛~ [호텔조식 1+1 제공]",
+        "오랫동안 기억될 패키지 ~ [TO-GO 도시락]"
+      ],
+      "photo": "hotel2.jpg",
+      "information": {
+        "surround": [
+          "신사역 차량 4분",
+          "세빛섬 차량 9분",
+          "국립 중앙박물관 차량 16분"
+        ],
+        "notice": [
+          "2021년 3월 23일 부터 조식 이용 가능합니다.",
+          "코로나19 확산 예방과 고객 및 직원의 안전을 위해 조식은 한상차림으로 제공됩니다.",
+          "매주 월요일은 조식 이용이 불가합니다. 양해 부탁 드립니다."
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "스텐다드 더블",
+          "price": 114000,
+          "photo": "double.jpg"
+        },
+        {
+          "id": 2,
+          "name": "스탠다드 트윈",
+          "price": 100000,
+          "photo": "twin.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rating": "3성급",
+      "name": "더 디자이너스 리즈 강남 프리미어",
+      "star": 5,
+      "location": "강남",
+      "address": "서울 강남구 논현동 202-11",
+      "transportation": "신논현역 도보 1분",
+      "price": "65,000원/1박",
+      "event": [
+        "너랑나랑 함께 먹어 더 맛난 [호텔조식 1+1]",
+        "열심히 일한 그대! 연박할인으로 푹 쉬어요",
+        "내가 정하는 인앤아웃 시간 ~ [24시간 스테이]"
+      ],
+      "photo": "hotel3.jpg",
+      "information": {
+        "surround": [
+          "신논현역 도보 1분",
+          "서울고속버스터미널 차량 8분",
+          "코엑스 차량 15분"
+        ],
+        "notice": [
+          "[코로나19로 인한 투숙 인원 제한]",
+          "사회적 거리두기 격상에 따라 3인실 이용시 직계 가족만 이용가능하며, 체크인 시 등본 지참 후 확인 부탁드립니다."
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "슈페이러 트윈",
+          "price": 65000,
+          "photo": "hotel3_twin.jpg"
+        },
+        {
+          "id": 2,
+          "name": "디럭스 패밀리 트윈",
+          "price": 70000,
+          "photo": "hotel3_twin2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "디럭스 더블",
+          "price": 85000,
+          "photo": "hotel3_double.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rating": "4성급",
+      "name": "L7 강남 바이 롯데",
+      "star": 5,
+      "location": "강남",
+      "address": "서울 강남구 삼성동 142-41",
+      "transportation": "선릉역 도보 1분",
+      "price": "130,000원/1박",
+      "event": [
+        "완전한 하루 휴식하기 ~ [24시간 스테이]",
+        "조금 더 머무르고 싶다 ~ [33시간 스테이]",
+        "든든한 하루의 시작 [조식 1인 제공]"
+      ],
+      "photo": "hotel4.jpg",
+      "information": {
+        "surround": [
+          "선릉역 도보 1분",
+          "코엑스 차량 4분",
+          "강남고속버스터미널 차량 20분"
+        ],
+        "notice": [
+          "[사회적 거리두기 4단계 격상에 따른 투숙인원 제한 기준 안내]",
+          "기간 : ~사회적 거리두기 4단계 종료 시점까지 적용",
+          "객실 정원 기준 : 더블/트윈 최대 2인, 패밀리트윈 최대 3인",
+          "단, 3인 이상의 경우 직계가족에 한하여 투숙 가능하며, 체크인시 주민등록등본을 프론트에 제시해 주시기 바랍니다"
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "스탠다드 트윈",
+          "price": 130000,
+          "photo": "hotel4_twin.jpg"
+        },
+        {
+          "id": 2,
+          "name": "[WOW! VR 패키지] 스탠다드 트윈",
+          "price": 140000,
+          "photo": "hotel4_twin2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "스탠다드 더블",
+          "price": 140000,
+          "photo": "hotel4_double.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rating": "5성급",
+      "name": "JW 메리어트 호텔 서울",
+      "star": 5,
+      "location": "서초",
+      "address": "서울 서초구 반포동 19-3",
+      "transportation": "고속토미널역 도보 2분",
+      "price": "350,000원/1박",
+      "event": [
+        "발리로 여행갈 사람 ~ [발리 테마 객실]",
+        "발리로 더나는 여행 ~ [스위트 + 발리 패키지]",
+        "아이와 함께 행복한 [패밀리 타임 패키지]"
+      ],
+      "photo": "hotel5.jpg",
+      "information": {
+        "surround": [
+          "고속터미널역 도보 2분",
+          "국립중앙박물관 차량 10분",
+          "남산서울타워 차량 14분"
+        ],
+        "notice": [
+          "[코로나19 사회적 거리두기 격상에 따른 추가 공지 사항]",
+          "이그제큐티브 라운지 해피아워는 1박당 1회 1시간으로 제한될 수 있습니다 (모든 요일)",
+          "사회적 거리두기 단계 격상에 따라, 호텔 운영 상황은 수시로 변동될 수 있습니다",
+          "마르퀴스 피트니스 클럽 내 공용물품 제공이 제한됩니다",
+          "실내 수영장은 예약제로 운영되며, 1박당 1회 1시간 40분 이용 가능합니다"
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "디럭스 킹 (1 킹 베드)",
+          "price": 350000,
+          "photo": "hotel5_king.jpg"
+        },
+        {
+          "id": 2,
+          "name": "디럭스 더블 (2 더블 베드)",
+          "price": 350000,
+          "photo": "hotel5_double.jpg"
+        },
+        {
+          "id": 3,
+          "name": "[발리 패키지] 디럭스 킹 (1 킹 베드)",
+          "price": 360000,
+          "photo": "hotel5_vali.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "rating": "5성급",
+      "name": "메종 글래드 제주",
+      "star": 5,
+      "location": "제주공항",
+      "address": "제주특별자치도 제주시 연동 263-15",
+      "transportation": "제주공항 차량 10분",
+      "price": "99,000원/1박",
+      "event": [
+        "아쉽지 않게 즐긴땐 역시! [14시 체크아웃]",
+        "시원하게 즐기자~ [야외수영장 이용권 2인]",
+        "[연박할인 + 치킨 + 생맥주]길~게 느끼는 여유!"
+      ],
+      "photo": "hotel6.jpg",
+      "information": {
+        "surround": [
+          "제주공항 차량 10분",
+          "한라수목원 차량 10분",
+          "용두암 차량 17분"
+        ],
+        "notice": [
+          "사회적 거리두기 4단계 격상으로 인한 3인 투숙 인원 제한 안내",
+          "기간 : 8월 18일 ~",
+          "제주도 사회적 거리두기가 4단계로 격상됨에 따라 1객실 당 기준인원 2인까지만 투숙가능하며, 3인 이상 투숙 시 아래 서류 지참"
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "[반나절 호캉스-숙박불가] 디럭스 트윈",
+          "price": 99000,
+          "photo": "hotel6_twin.jpg"
+        },
+        {
+          "id": 2,
+          "name": "스탠다드 더블",
+          "price": 170000,
+          "photo": "hotel6_double.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "rating": "5성급",
+      "name": "호텔 토스카나",
+      "star": 5,
+      "location": "서귀포시",
+      "address": "제주특별자치도 서귀포시 강정동 3700-4",
+      "transportation": "서귀포터미널 부근",
+      "price": "450,000원/1박",
+      "event": [
+        "알찬 여행의 시작! [연박특가+조식 2회 제공]",
+        "처음부터 끝까지 다~ 올인 [조식 + 치킨 + 맥주]"
+      ],
+      "photo": "hotel7.jpg",
+      "information": {
+        "surround": [
+          "서귀포터미널 부근",
+          "엉또폭포 차량 6분",
+          "대포주상절리 차량 16분"
+        ],
+        "notice": [
+          "[V,I,B 서비스] (사전예약 필수/선착순)",
+          "알레르망 베이비 범퍼침대 유료 제공",
+          "전 객실 공기살균기 설치"
+        ]
+      },
+      "room": [
+        {
+          "id": 1,
+          "name": "디럭스 패밀리",
+          "price": 450000,
+          "photo": "hotel7_family.jpg"
+        },
+        {
+          "id": 2,
+          "name": "[S컬렉션] [대기예약] 75평 온수풀빌리지",
+          "price": 3000000,
+          "photo": "hotel7_pool.jpg"
+        }
+      ]
+    }
+  ],
+  "reserves": [
+    {
+      "id": 1,
+      "email": "abc@abc.com",
+      "name": "aaa",
+      "tel": "123456",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스탠다드 트윈 / 1박",
+      "checkin": "2021-08-19(목)",
+      "checkout": "2021-08-20(금)",
+      "totalPrice": 100000,
+      "reserveState": "done",
+      "reservedate": "2021-08-19(목) 21:32",
+      "reviewid": 12,
+      "canceleDate": "2021-08-19(목) 23:00"
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "abc",
+      "tel": "222-1111",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스텐다드 더블 / 1박",
+      "checkin": "2021-08-19(목)",
+      "checkout": "2021-08-20(금)",
+      "totalPrice": 114000,
+      "reserveState": "done",
+      "id": 2,
+      "reservedate": "2021-08-19(목) 21:32",
+      "reviewid": 5
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "홍길동",
+      "tel": "1010102333",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스탠다드 트윈 / 2박",
+      "checkin": "2021-08-19(목)",
+      "checkout": "2021-08-21(토)",
+      "totalPrice": 200000,
+      "reserveState": "done",
+      "id": 3,
+      "reservedate": "2021-08-19(목) 21:32",
+      "reviewid": 9
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "홍길도도동",
+      "tel": "000111111222",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스탠다드 트윈 / 1박",
+      "checkin": "2021-08-19(목)",
+      "checkout": "2021-08-20(금)",
+      "totalPrice": 100000,
+      "reserveState": "canceled",
+      "reviewid": null,
+      "reservedate": "2021-08-19(목) 21:32",
+      "id": 4,
+      "canceleDate": "2021-08-19(목) 23:00"
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "데이트첵",
+      "tel": "0101010102",
+      "hotelName": "에이든 바이베스트웨스턴 청담",
+      "hotelid": 1,
+      "roomType": "헐리우드 더블 / 1박",
+      "checkin": "2021-08-19(목)",
+      "checkout": "2021-08-20(금)",
+      "totalPrice": 85000,
+      "reserveState": "reserved",
+      "reviewid": null,
+      "reservedate": "2021-08-19(목) 21:32",
+      "id": 5
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "데이트췍",
+      "tel": "101101020",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스텐다드 더블 / 1박",
+      "checkin": "2021-08-19(목)",
+      "checkout": "2021-08-20(금)",
+      "totalPrice": 114000,
+      "reserveState": "canceled",
+      "reviewid": null,
+      "reservedate": "2021-08-19(목) 21:32",
+      "id": 6,
+      "canceleDate": "2021-08-19(목) 23:06"
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "호텔아이디",
+      "tel": "10293894384",
+      "hotelName": "에이든 바이베스트웨스턴 청담",
+      "hotelid": 1,
+      "roomType": "헐리우드 더블 / 1박",
+      "checkin": "2021-08-20(금)",
+      "checkout": "2021-08-21(토)",
+      "totalPrice": 85000,
+      "reserveState": "done",
+      "reviewid": 7,
+      "reservedate": "2021-08-20(금) 14:41",
+      "id": 7,
+      "canceleDate": "2021-08-20(금) 19:34"
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "ㅁㅁㅁㅁㅁ",
+      "tel": "11111111",
+      "hotelName": "에이든 바이베스트웨스턴 청담",
+      "hotelid": 1,
+      "roomType": "디럭스 트윈 / 1박",
+      "checkin": "2021-08-20(금)",
+      "checkout": "2021-08-21(토)",
+      "totalPrice": 90000,
+      "reserveState": "done",
+      "reviewid": 6,
+      "reservedate": "2021-08-20(금) 15:40",
+      "id": 8,
+      "canceleDate": "2021-08-20(금) 15:40"
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "ㅁㅁ",
+      "tel": "01027896988",
+      "hotelName": "에이든 바이베스트웨스턴 청담",
+      "hotelid": 1,
+      "roomType": "헐리우드 더블 / 1박",
+      "checkin": "2021-08-21(토)",
+      "checkout": "2021-08-22(일)",
+      "totalPrice": 85000,
+      "reserveState": "done",
+      "reviewid": 19,
+      "reservedate": "2021-08-21(토) 16:36",
+      "id": 9
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "sdf",
+      "tel": "sfs",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스텐다드 더블 / 2박",
+      "checkin": "2021-08-24(화)",
+      "checkout": "2021-08-26(목)",
+      "totalPrice": 228000,
+      "reserveState": "done",
+      "reviewid": null,
+      "reservedate": "2021-08-22(일) 15:32",
+      "id": 10,
+      "canceleDate": "2021-08-22(일) 15:32"
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "aa",
+      "tel": "dd",
+      "hotelName": "신라스테이 역삼",
+      "hotelid": 2,
+      "roomType": "스탠다드 트윈 / 1박",
+      "checkin": "2021-08-22(일)",
+      "checkout": "2021-08-23(월)",
+      "totalPrice": 100000,
+      "reserveState": "done",
+      "reviewid": null,
+      "reservedate": "2021-08-22(일) 20:20",
+      "id": 11
+    },
+    {
+      "email": "abc@abc.com",
+      "name": "홍길동",
+      "tel": "0102029384",
+      "hotelName": "L7 강남 바이 롯데",
+      "hotelid": 4,
+      "roomType": "[WOW! VR 패키지] 스탠다드 트윈 / 1박",
+      "checkin": "2021-08-23(월)",
+      "checkout": "2021-08-24(화)",
+      "totalPrice": 140000,
+      "reserveState": "canceled",
+      "reviewid": null,
+      "reservedate": "2021-08-23(월) 10:09",
+      "id": 12,
+      "canceleDate": "2021-08-23(월) 18:34"
+    }
+  ]
+}

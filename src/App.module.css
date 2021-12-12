@@ -1,0 +1,12 @@
+body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .notFound{
+    text-align: center;
+    border: 1px solid #a4a4a4;
+    margin: 1rem;
+    padding: 1rem;
+    color: #202020;
+  }

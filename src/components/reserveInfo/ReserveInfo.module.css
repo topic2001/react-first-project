@@ -1,0 +1,244 @@
+.container{
+  display: flex;
+  justify-content: center;
+}
+.innerContainer{
+  width: 100%;
+  max-width: 1024px;
+  padding: 2rem 0.5rem;
+  display: flex;
+  color: black;
+}
+.innerContainer > div:first-child{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 1rem;
+}
+
+.innerContainer > div:first-child > span{
+  margin: 0.2rem 0;
+  cursor: pointer;
+}
+
+.active{
+  color: salmon!important;
+  border-bottom: 1px solid salmon;
+  cursor: default!important;
+}
+
+.innerContainer > div:last-child{
+  flex: 3;
+}
+
+.infoContainer{
+  /* background-color: thistle; */
+  display: flex;
+  flex-direction: column;
+}
+hr{
+  margin: 1rem 0 0.5rem 0;
+}
+.infoContainer > div > span:first-child{
+  font-weight: bold;
+}
+.infoBox{
+  display: flex;
+  padding: 0.5rem;
+  padding-bottom: 0;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.info{
+  font-size: 0.8rem;
+  background-color: #f5f5f5;
+  width: 45%;
+  padding: 0.5rem;
+  padding-bottom: 0;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3rem;
+}
+.info > span:first-child{
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.info > div:nth-child(4){
+  display: flex;
+}
+.info > div:nth-child(4) > div{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  
+}
+.info > div:nth-child(4) > div:last-child{
+  color: #a4a4a4;
+  
+}
+.button{
+  border: none;
+  color: white;
+  background-color: #f7323f;
+  cursor: pointer;
+  margin: -0.5rem;
+  margin-top: 0.5rem;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+  text-align: center;
+}
+.button1{
+  border: none;
+  color: white;
+  background-color: seagreen;
+  cursor: pointer;
+  margin: -0.5rem;
+  margin-top: 0.5rem;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+  text-align: center;
+}
+.canceled{
+  background-color: #a4a4a4;
+  margin: -0.5rem;
+  margin-top: 0.5rem;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+  text-align: center;
+}
+.idInfoContainer{
+  font-size: 0.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.idInfoContainer > form{
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0.5rem;
+}
+.idInfoContainer > form > input{
+  margin: 0.3rem 0;
+  padding: 0.3rem 0;
+  font-size: 0.8rem;
+  border: 1px solid #a4a4a4;
+}
+
+.idInfoContainer > form > input[type="submit"]{
+  border: none;
+  color: white;
+  background-color: #f7323f;
+  width: 120px;
+}
+
+
+.idInfoContainer > span:first-child{
+  font-size: 1rem;
+  font-weight: bold;
+}
+.idInfoContainer > div:last-child > span{
+  color: #f7323f;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+.empty{
+  color: #a4a4a4;
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.modal{
+  position: fixed; 
+  z-index: 1; 
+  padding-top: 200px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.review{
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  font-size: 0.8rem;
+  color: #a4a4a4;
+  background-color: #f5f5f5;
+  padding: 0.5rem;
+  padding-top: 0;
+
+}
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.review > span{
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+.review > textarea{
+  height: 5rem;
+}
+.review > input[type=submit]{
+  color: white;
+  background-color: #f7323f;
+  border: none;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  width: 100px;
+  cursor: pointer;
+}
+.title{
+  display: flex;
+}
+.title > input{
+  flex: 1;
+}
+.title > div{
+  flex: 1;
+  text-align: center;
+  color: orange;
+  font-size: 1.5rem;
+  line-height: 1rem;
+  margin: 0;
+  padding: 0;
+}
+.title > div > span{
+  cursor: pointer;
+}
+.emoji{
+  display: flex;
+  /* background-color: teal; */
+  font-size: 2rem;
+  justify-content: space-evenly;
+}
+.emoji > span{
+  cursor: pointer;
+  padding: 0.5rem;
+  /* border-radius: 50%; */
+  /* background-color: thistle; */
+}
+
+.select{
+  background-color: #f7323f;
+}
+
